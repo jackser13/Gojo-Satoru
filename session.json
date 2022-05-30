@@ -1,6 +1,4 @@
-[
-  Session id here
-]{
+{
   "creds": {
     "noiseKey": {
       "private": {
